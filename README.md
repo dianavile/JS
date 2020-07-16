@@ -1,2 +1,4 @@
 # JS
-JS exercises
+JS exercises to learn algorithms
+
+[JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
